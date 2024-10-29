@@ -15,26 +15,6 @@ export default function Legal() {
                     <h2 className="text-3xl font-bold mb-6">Cryptocurrency Disclaimers</h2>
 
                     <div className="space-y-6">
-                        {/* Non-Custodial Notice */}
-                        <div className="bg-yellow-50 border-2 border-yellow-400 rounded-lg p-6">
-                            <h3 className="text-xl font-bold mb-4 flex items-center">
-                                <span className="text-2xl mr-2">⚠️</span>
-                                Non-Custodial Service Notice
-                            </h3>
-                            <div className="space-y-4">
-                                <p className="font-semibold">Bank of Andy is a non-custodial service. This means:</p>
-                                <ul className="list-disc pl-6 space-y-2">
-                                    <li>We do not store, control, or have access to user private keys</li>
-                                    <li>Users are solely responsible for securing their private keys and wallet credentials</li>
-                                    <li>We cannot recover lost funds or private keys</li>
-                                    <li>We cannot reverse or modify blockchain transactions</li>
-                                    <li>We cannot access user wallets</li>
-                                    <li>We cannot freeze accounts</li>
-                                    <li>We cannot recover stolen funds</li>
-                                    <li>We do not store your private information</li>
-                                </ul>
-                            </div>
-                        </div>
 
                         {/* Risk Warning */}
                         <div className="bg-red-50 border-2 border-red-400 rounded-lg p-6">

@@ -81,7 +81,9 @@ export default function Home() {
               __html: copyrightText
             }}>
             </p>
-
+            <div className="mt-4">
+              <a href="/legal" className="text-slate-500 hover:text-slate-700 dark:hover:text-slate-300">Terms of Service & Privacy Policy</a>
+            </div>
           </div>
         </footer>
 

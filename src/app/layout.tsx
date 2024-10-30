@@ -10,8 +10,8 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: "Bank of Andy - Coming Soon",
-  description: 'Memecoin Banking on BLAST NETWORK',
+  title: "FOMO Tools - Tools to help you COOK! 👨🏻‍🍳",
+  description: 'Tools to help you COOK! 👨🏻‍🍳',
 }
 
 export default function RootLayout({

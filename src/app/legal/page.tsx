@@ -85,12 +85,12 @@ export default function Legal() {
                     <div className="space-y-6">
                         <div>
                             <h3 className="text-xl font-semibold mb-2">1. ACCEPTANCE OF TERMS</h3>
-                            <p>By accessing and using Bank of Andy (&quot;Service&quot;), you agree to these Terms of Service and all applicable laws and regulations.</p>
+                            <p>By accessing and using FOMO Tools (&quot;Service&quot;), you agree to these Terms of Service and all applicable laws and regulations.</p>
                         </div>
 
                         <div>
                             <h3 className="text-xl font-semibold mb-2">2. DESCRIPTION OF SERVICE</h3>
-                            <p>Bank of Andy provides a Telegram-based interface for cryptocurrency transactions and related services on the Blast L2 network.</p>
+                            <p>FOMO Tools provides a Telegram-based interface for cryptocurrency transactions and related services on the Blast L2 network.</p>
                         </div>
 
                         <div>
@@ -178,7 +178,7 @@ export default function Legal() {
 
                         <div>
                             <h3 className="text-xl font-semibold mb-2">6. CONTACT</h3>
-                            <p>For privacy inquiries: <a href="mailto:contact@bankofandy.com" className="text-blue-500 hover:underline">contact@bankofandy.com</a></p>
+                            <p>For privacy inquiries: <a href="mailto:contact@fomotools.xyz" className="text-blue-500 hover:underline">contact@fomotools.xyz</a></p>
                         </div>
                     </div>
                 </section>

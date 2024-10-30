@@ -1,12 +1,12 @@
 const data = {
-  sitename: "Bank of Andy - Coming Soon",
-  sitetagline: "Memecoin Banking on BLAST NETWORK",
+  sitename: "FOMO Tools - Tools to help you COOK!",
+  sitetagline: "Tools to help you COOK! 👨🏻‍🍳",
   sitelogo: "",
-  title: "Bank of Andy - Coming Soon",
+  title: "FOMO Tools - Tools to help you COOK! 👨🏻‍🍳",
   description:
     "We&apos;re currently working 👨‍💻 hard to bring you something great, and we can&apos;t wait to share it with you 📅. Our team is putting the finishing touches on a new project 🚀 that we think you&apos;ll love 😍.",
   newsletterheading: "Stay tuned for our live updates!",
-  copyrightText: "Memecoin banking for the people, by the people",
+  copyrightText: "Trading tools for the people, by the people",
   socialIconsHeading: "Follow Us 📣",
   socialIcons: [
     {
@@ -15,7 +15,7 @@ const data = {
     },
     {
       icon: "twitter",
-      link: "https://twitter.com/web3thomasc",
+      link: "https://twitter.com/FOMOToolsXYZ",
     },
     {
       icon: "linkedIn",

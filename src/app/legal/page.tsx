@@ -28,7 +28,7 @@ export default function Legal() {
                                     <li>Cryptocurrency values can be highly volatile</li>
                                     <li>Past performance does not guarantee future results</li>
                                     <li>You may lose all your invested capital</li>
-                                    <li>The Blast L2 network and smart contracts may have undiscovered vulnerabilities</li>
+                                    <li>The Sui and Aptos networks and smart contracts may have undiscovered vulnerabilities</li>
                                     <li>Network congestion may affect transaction timing and fees</li>
                                     <li>Regulatory changes may impact cryptocurrency usage and value</li>
                                 </ul>
@@ -90,7 +90,7 @@ export default function Legal() {
 
                         <div>
                             <h3 className="text-xl font-semibold mb-2">2. DESCRIPTION OF SERVICE</h3>
-                            <p>FOMO Tools provides a Telegram-based interface for cryptocurrency transactions and related services on the Blast L2 network.</p>
+                            <p>FOMO Tools provides a Telegram-based interface for cryptocurrency transactions and related services on the Sui and Aptos networks.</p>
                         </div>
 
                         <div>
